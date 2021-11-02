@@ -1,2 +1,2 @@
 # tic-tac-toe
-Created my first React project
+Created my first React project.
